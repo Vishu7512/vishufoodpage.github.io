@@ -1,0 +1,219 @@
+		.img img{
+			/*width: 40px;*/
+		    height: 35px;
+		    float: left;
+		    margin: -7px 20px 2px 37px;
+				}
+				h4{ font-weight: normal; }
+
+				.better{
+					height: 500px;
+				}
+				.text1 h1{font-size: 55px;
+						    border-left: 8px solid #ffeb00;
+						    padding: 10px;}
+
+				.img{ background-image: url('images/foodimg.jpeg');
+
+                 }
+				
+				 .text4{
+				 	height: 400px;
+				 	float: left;
+				 }
+				 .text3{
+							    float: left;
+							    margin-left: 145px;
+							    margin-top: 0;
+							    background-color: #fff;
+							    position: relative;
+							    color: black;
+							    top: -150px;
+							    box-shadow: 0 0 40px 0 rgb(0 0 0 / 10%);
+							    width: 510px;
+							    padding: 50px;
+											 }
+				 .text4 p{
+                      padding: 30px;
+				 }
+				 .nbc h4{
+				 	margin-top: 25px;
+				 }
+				 .nbc1{
+				 	padding-top: 100px;width: 42%;
+				 }
+				 .img2 img{
+				 	float: right; 
+				 	height: 230px;
+				 }
+				 .bgm{
+				 	background-image: url(images/tomato.jpeg);
+				    height: 700px;
+				    margin-top: 235px;
+				    background-position: center;
+				}
+				.boxx1 {background-color: #5abcbf;
+						    color: white;
+						    height: 305px;
+						    padding: 15px;}
+						    .boxx2{
+						    	background-color:  #6bc75d;
+						    color: white;
+						    height: 305px;
+						    padding: 15px;
+						    }
+						    .boxx3{
+						    	background-color: #b23c8a;
+						    color: white;
+						    height: 305px;
+						    padding: 15px
+						    }
+						    .text5{
+						    	text-align: center;
+    							margin-top: 50px;
+						    }
+						    .box5{
+						    	background-color: #ebf8f9;
+						    	text-align: center;
+						    	height: 375px;
+						    }
+						    .box6{
+						    	background-color: #eef9ec;
+						    	text-align: center;
+						    	height: 375px;
+						    }
+						    .box7{
+						    	background-color: #fbecf6;
+						    	text-align: center;
+						    	height: 375px;
+						    }
+						    .container {
+    						margin-left: 230px; max-width: 84%;}
+    						.raw{ width: 100%;margin-top: 100px; display: flex; }
+    						.box5  img{
+    							position: relative;
+    							top: -80px;
+    						}.box6  img{
+    							position: relative;
+    							top: -80px;
+    						}.box7  img{
+    							position: relative;
+    							top: -80px;
+    						}
+    						.col-sm-4 {
+							    flex: 0 0 auto;
+							    width: 30.333333%;}
+							     .box5 p {
+								       margin-top: 0;
+									    margin-bottom: 1rem;
+									    margin: 10px;
+									}
+								 .box6 p {
+								       margin-top: 0;
+									    margin-bottom: 1rem;
+									    margin: 10px;
+									}
+ 								.box7 p {
+								       margin-top: 0;
+									    margin-bottom: 1rem;
+									    margin: 10px;
+									}
+									.text6{
+										text-align: center;
+									    margin-top: 100px;
+									    width: 585px;
+									    margin-left: 450px;
+									}
+									.button{
+										text-align: center;
+									}
+									
+									.pic{
+  											color: black;
+										    background-color: #ebf8f9;
+										    text-align: center;
+										    padding-top: 50px;
+										    margin-top: 60px;
+										}
+										.pict img{
+											    height: 400px;
+   												 width: 360px;
+										}
+										.write{
+											background-color: white;
+											width: 360px;
+											height: 200px;
+											padding-top: 25px;
+										}
+										.write h2{
+											padding-bottom: 30px;
+										}
+										.button1{
+											text-align: center;
+											margin-top: 50px;
+											text-decoration-color: blue;}
+
+											.button2{
+											text-align: center;
+											margin-top: 50px;
+											text-decoration-color: blue;
+										}
+										.mb-3 {
+											    margin-bottom: 1rem!important;
+											    }
+										    .form h1{ text-align: center;margin-top: 200px;    font-family: ui-monospace; }
+										    .footer{
+										    	padding-top: 5px;
+										    	background-color: #5abcbf;display: flex;
+
+											    }
+										a{
+										    color: rebeccapurple;
+										    text-decoration: underline;
+										    padding: 4px;
+										    font-size: xx-large;
+										}
+										.form{width: 65%;
+                                              padding-left: 35%;}	    
+											   
+			
+
+
+@media(max-width:640px){
+.text6 {
+	margin-left: 0;
+	width: auto;}
+.text3{ width: auto; }
+.text1 h1 { font-size: 30px;}
+.nbc1 { width: 125%;padding-top: 0px;}
+.boxx{height: 250px;}
+.col-sm-3{margin: 10px;}
+.boxx1{height: 215px;}
+.boxx2{height: 215px;}
+.boxx3{height: 215px;}
+.better{height: 250px;}
+.nbc h4 { margin-top: 25px;font-size: x-small;}
+.nbc{ padding-bottom: 20px;border-bottom: 1px solid;
+      border width: 2;width: 300px;}
+.img2 img { height: 230px; width: 195%;float: none;}
+.text3 {width: 260px;right: 120px;height: 315px;padding: 25px;top: -160;}
+.text4 h1{    text-align: center; font-family: 'Roboto Slab',serif;font-size: 20px;}
+.text4 p{ padding-top: 50px;}
+.bgm {height: 350px;margin-top: 90px;width: 374px;background-size: cover;}
+.text5{padding: 10px;text-align: center;margin-top: 50px;}
+.raw{display: block;}
+.col-sm-4{width: 107%;}
+.box5 {background-color: #ebf8f9; height: 375px; margin-bottom: 25px;}
+.box6{margin-bottom: 25px;}
+.text5 h1{ font-family: 'Roboto Slab',serif; font-size: xx-large;}
+.text6 p{font-family: Roboto,sans-serif; font-size: 27px;}
+.text6 p{font-family: Roboto,sans-serif; font-size: 15px;}
+.pic h1{font-family: Roboto,sans-serif; text-transform: capitalize; font-size: 30px;margin-bottom: 25px;}
+.pic p{    font-family: Roboto,sans-serif;font-size: 12px;}
+.form {width: 85%;padding-left: 15%;}
+}
+
+
+@media(max-width:320px){
+
+}
